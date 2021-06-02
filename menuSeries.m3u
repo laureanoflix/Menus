@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="", anime
+https://raw.githubusercontent.com/lau64839/paste-series/main/anime.m3u
+#EXTINF:-1 tvg-logo="", documentales
+https://raw.githubusercontent.com/lau64839/paste-series/main/documentales.m3u
+#EXTINF:-1 tvg-logo="", novelas
+https://raw.githubusercontent.com/lau64839/paste-series/main/novelas.m3u
+#EXTINF:-1 tvg-logo="", cartoon
+https://raw.githubusercontent.com/lau64839/paste-series/main/cartoon.m3u
+#EXTINF:-1 tvg-logo="", tele series
+https://raw.githubusercontent.com/lau64839/paste-series/main/tele%20series.m3u
