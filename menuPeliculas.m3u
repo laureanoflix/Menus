@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/accion.jfif",ACCION
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/accion.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Accion.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",AVENTURA
 https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/belicas.jfif",BELICAS
