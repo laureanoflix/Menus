@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/accion.jfif",ACCION
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Accion.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",AVENTURA
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/aventura.jfif",AVENTURA
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Aventura.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/belicas.jfif",BELICAS
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Belicas.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/9f03da23-1548-487b-b882-1a0e47ec8f78.jfif",CIENCIA FICCION
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/cienciaficcion",CIENCIA FICCION
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/CienciaFiccion.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/comica.jfif",COMEDIAS
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/comedia.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",CRIMEN
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/comedia.jfif",COMEDIAS
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Comedia.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/crimen.jfif",CRIMEN
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Crimen.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/drama.jfif",DRAMA
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/drama.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",FANTASIA
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Drama.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/fantasia.jfif",FANTASIA
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Fantasia.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",INFANTILES
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Infantiles.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/romanticas.jfif",ROMANTICAS
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/romanticas.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",SUPER HEROES
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",SUSPENSO
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Romanticas.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/superheroes.jfif",SUPER HEROES
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Superheroes.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/suspenso.jfif",SUSPENSO
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Suspenso.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/terror.jfif",TERROR
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/terror.m3u
-#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/infantil.jfif",WESTERN
-https://raw.githubusercontent.com/lau64839/paste-peliculas/main/infantiles.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Terror.m3u
+#EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/western.jfif",WESTERN
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Western.m3u
 
