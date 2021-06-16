@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="",Documentales
-https://raw.githubusercontent.com/lau64839/paste-series/main/documentales.m3u
+https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/documentales.m3u
 #EXTINF:-1 tvg-logo="",Novelas
-https://raw.githubusercontent.com/lau64839/paste-series/main/novelas.m3u
+https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/novelas.m3u
 #EXTINF:-1 tvg-logo="",Cartoon
-https://raw.githubusercontent.com/lau64839/paste-series/main/cartoon.m3u
+https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/cartoon.m3u
 #EXTINF:-1 tvg-logo="",Tele Series
 https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/tele%20series.m3u
