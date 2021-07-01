@@ -9,5 +9,5 @@ https://bit.ly/3oBU558
 https://bit.ly/3vaOQvP
 #EXTINF: -1 tvg logo =  "lista", lista
 https://raw.githubusercontent.com/TVPRO20/TV2/master/TV2.m3u
-#EXTINF: -1 tvg logo= "" LISTA 2
+#EXTINF: -1 tvg logo= "", LISTA 2
 https://raw.githubusercontent.com/IpTvMac/DisGuia/master/Ctes/CteEnOWmd/LFD.m3u
