@@ -1,6 +1,6 @@
 # EXTM3U
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV VARIADO
-https://iptv-org.github.io/iptv/index.sfw.m3u
+https://iptv-org.github.io/iptv/languages/eng.m3u
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATINO PARA TODOS
 https://bit.ly/3f4UxWp
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATINO TELECLUB
