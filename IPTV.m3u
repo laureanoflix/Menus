@@ -17,3 +17,5 @@ https://raw.githubusercontent.com/cesarivan2310/List/main/TV
 https://raw.githubusercontent.com/cesarivan2310/List/main/TV2
 #EXTINF: -1 tvg logo = "", LISTA 5
 https://iptv-org.github.io/iptv/languages/spa.m3u
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/zGV7Qkrh/mundo_paranormal.png" group-title="DOCUMENTALES Y CULTURA", MUNDO PARANORMAL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11fff80-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=825634f7-2c2a-419b-b7b3-bf9a679e2c61&userId=&serverSideAds=true
