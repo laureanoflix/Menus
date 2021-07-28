@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Peliculas",.http://.. 
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/accion.jfif",ACCION
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Accion.m3u
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ACCION.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/aventura.jfif",AVENTURA
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/Aventura.m3u
 #EXTINF:-1 tvg-logo="https://github.com/lau64839/imagenes/raw/main/belicas.jfif",BELICAS
