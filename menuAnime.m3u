@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Anime",.http://..
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gyf20Jr/Whats-App-Image-2021-07-25-at-2-18-24-AM-1.png",Anime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gyf20Jr/Whats-App-Image-2021-07-25-at-2-18-24-AM-1.png",Serie Anime
 https://raw.githubusercontent.com/laureanoflix/Anime/main/anime.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9bnHRGb/Whats-App-Image-2021-07-25-at-2-18-19-AM-4-1.png",Peliculas Anime
 https://raw.githubusercontent.com/laureanoflix/Anime/main/PeliculasAnime.m3u
