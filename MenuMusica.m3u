@@ -1,3 +1,9 @@
 # EXTM3U
-#EXTINF:-1 tvg-logo="",Cumbias
+#EXTINF:-1 tvg-logo="", Conciertos de Cumbias
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
+#EXTINF:-1 tvg-logo="", Conciertos de Reggaeton
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
+#EXTINF:-1 tvg-logo="",Conciertos de Rock
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
+#EXTINF:-1 tvg-logo="",Conciertos de Heavy Metal
 https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
