@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="Series",.http://..
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ6rSC8/Whats-App-Image-2021-07-25-at-2-18-20-AM-2.png",Documentales
 https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/documentales.m3u
-#EXTINF:-1 tvg-logo="",Novelas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wY8NrDH/novelas-TV.png",Novelas
 https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/novelas.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1W2nZY/Whats-App-Image-2021-07-25-at-2-18-20-AM.png",Cartoon
 https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/cartoon.m3u
-#EXTINF:-1 tvg-logo="",Tele Series
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqnwfYR/Whats-App-Image-2021-07-25-at-2-18-19-AM-2.png",Tele Series
 https://raw.githubusercontent.com/laureanoflix/MenuSeries/main/tele%20series.m3u
