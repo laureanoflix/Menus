@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
 https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
 #EXTINF:-1 tvg-logo="",Conciertos PoP
 https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
+#EXTINF:-1 tvg-logo="", Conciertos Reggae
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
 #EXTINF:-1 tvg-logo="", Conciertos Reggaeton
 https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
 #EXTINF:-1 tvg-logo="",Conciertos Rock Nacional e Internacional
