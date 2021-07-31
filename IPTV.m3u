@@ -1,21 +1,13 @@
 # EXTM3U
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV VARIADO
 https://raw.githubusercontent.com/allan-fdez/PlutoTV/main/Channels
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATIN
+#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATINO
 https://raw.githubusercontent.com/lo7169-3/Pluto-TV/main/canales%20tv/Canales%20Latino.m3u
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATINO TELECLUB
+#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",Pluto TV
 https://raw.githubusercontent.com/lo7169-3/Pluto-TV/main/canales%20tv/Canales%20Espa%C3%B1a.m3u
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV LATINO 2 TELECLUB
+#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino
 https://bit.ly/3vaOQvP
-#EXTINF: -1 tvg logo =  "lista", lista
-https://raw.githubusercontent.com/TVPRO20/TV2/master/TV2.m3u
-#EXTINF: -1 tvg logo= "", LISTA 2
+#EXTINF: -1 tvg logo= "", XXX
 https://raw.githubusercontent.com/IpTvMac/Erotic/main/Erotic.m3u
-#EXTINF: -1 tvg logo = "", LISTA 3
-https://raw.githubusercontent.com/cesarivan2310/List/main/TV  
-#EXTINF: -1 tvg logo = "", LISTA 4
-https://raw.githubusercontent.com/cesarivan2310/List/main/TV2
-#EXTINF: -1 tvg logo = "", LISTA 5
-https://iptv-org.github.io/iptv/languages/spa.m3u
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/zGV7Qkrh/mundo_paranormal.png" , MUNDO PARANORMAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11fff80-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=825634f7-2c2a-419b-b7b3-bf9a679e2c61&userId=&serverSideAds=true
