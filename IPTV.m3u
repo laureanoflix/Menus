@@ -5,9 +5,9 @@ https://bit.ly/3f4UxWp
 https://raw.githubusercontent.com/lo7169-3/Pluto-TV/main/canales%20tv/Canales%20Espa%C3%B1a.m3u
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino
 https://bit.ly/3vaOQvP
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino 2
+#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino 
 https://tv.teleclub.xyz/lista/tv.m3u
 #EXTINF: -1 tvg logo= "", XXX
 https://raw.githubusercontent.com/IpTvMac/Erotic/main/Erotic.m3u
-#EXTINF: -1 tvg logo = "http://jomiloma.com/img/tvicono.png", DEPORTES
+#EXTINF: -1 tvg logo = "",DEPORTES
 https://blackghost.live/888/?eventos
