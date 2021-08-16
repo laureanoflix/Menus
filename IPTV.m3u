@@ -1,18 +1,14 @@
 # EXTM3U
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TANO LEO
-https://bit.ly/3iW1jjr
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",IPTV 24/7
 https://bit.ly/3f4UxWp   
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",Pluto TV
-https://raw.githubusercontent.com/lo7169-3/Pluto-TV/main/canales%20tv/Canales%20Espa%C3%B1a.m3u
-#EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino
-https://bit.ly/3vaOQvP
+https://bit.ly/3iW1jjr
 #EXTINF:-1 tvg-logo="http://jomiloma.com/img/tvicono.png",TELECLUB Latino 
-https://tv.teleclub.xyz/lista/tv.m3u
+https://bit.ly/3m5Wyp8
 #EXTINF: -1 tvg logo= "", XXX
-https://raw.githubusercontent.com/IpTvMac/Erotic/main/Erotic.m3u
+https://bit.ly/2Uk87h2
 #EXTINF: -1 tvg logo = "",DEPORTES
-https://blackghost.live/888/eventos.m3u
+https://bit.ly/3m49eNq
 #EXTINF:-1 tvg-id="" tvg-name="Cine Accion HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Accion HD
 http://planettvweb.com:8091/isaias2020/isaias2020/20341
 #EXTINF:-1 tvg-id="" tvg-name="Cine Accion Sagas HD" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7",Cine Accion Sagas HD
